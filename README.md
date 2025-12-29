@@ -1,16 +1,15 @@
-
-<h1 align="center">Hi, I'm Manikanta Neerukattu 👋</h1>
+<h1 align="center">Manikanta Neerukattu</h1>
 <h3 align="center">
-Senior Software Engineer | Applied AI Engineer | Full-Stack (.NET + React) | Agentic AI & RAG Systems
+Applied AI Engineer | Agentic AI & RAG Systems | Full-Stack (.NET + React) | Cloud AI Architect
 </h3>
 
 <p align="center">
-9.5+ years building enterprise platforms • 3+ years in AI/GenAI • Azure & AWS • Ex-Philips, Ex-ADP
+9.5+ years engineering experience • 3+ years AI-first systems • Healthcare & Finance • Azure & AWS
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/manifordev">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?logo=linkedin" />
 </a>
 <a href="mailto:manifordev@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
@@ -19,123 +18,179 @@ Senior Software Engineer | Applied AI Engineer | Full-Stack (.NET + React) | Age
 
 ---
 
-## 🚀 About Me
+## 🧠 Professional Summary
 
-I am a **Senior Software Engineer turned Applied AI Engineer**, specializing in building **AI-first enterprise systems**.
+I am a **Senior Software Engineer turned Applied AI Engineer**, focused on building **production-grade AI systems** — not demos.
 
-- 🧠 **Last 3 years**: Deep focus on **GenAI, RAG pipelines, Agentic AI, multi-tool orchestration**
-- 🏗️ **Before AI**: 6+ years building **scalable .NET, React & Angular enterprise platforms**
-- ☁️ Strong in **Azure & AWS**, production deployments, CI/CD, and secure systems
-- 🧩 Passionate about **LLM-powered workflow automation** across finance, healthcare, and enterprise SaaS
+- 🧩 **Agentic AI systems** with tool-calling, planning, memory, and orchestration
+- 📚 **Enterprise-scale RAG pipelines** across structured & unstructured data
+- 🏥 Deep experience in **Healthcare (EMR, compliance)** and **Financial systems**
+- ☁️ Strong in **Azure AI Foundry**, **AWS Bedrock**, and hybrid cloud deployments
+- 🏗️ Engineering mindset: scalability, observability, security, and governance
 
-Currently building **RAG & Agentic AI systems** that integrate:
-documents, databases, APIs, vector stores, and enterprise tools.
+> My work bridges **LLMs, classical engineering, cloud platforms, and regulated industries**.
 
 ---
 
-## 🧠 AI & GenAI Expertise
+## 🤖 AI / GenAI Stack (Vendor-Neutral)
 
-**LLM & Agent Frameworks**
+### **Foundation Models**
 - OpenAI (GPT-4 / GPT-4o)
-- LangChain & LangGraph
+- Anthropic (Claude)
+- Mistral
+- Meta LLaMA
+- Azure OpenAI
+- AWS Bedrock Models
+
+### **Agent & Orchestration Frameworks**
+- LangChain
+- LangGraph
 - OpenAI Agents SDK
 - Microsoft AutoGen
 - CrewAI
-- Semantic Kernel (.NET)
+- Semantic Kernel (.NET & Python)
 
-**RAG Systems**
-- Chunking & embedding strategies
+### **Agentic Patterns**
+- Tool-calling & function routing
+- Planner-Executor agents
+- Multi-agent collaboration
+- Memory-augmented agents
+- Human-in-the-loop workflows
+
+---
+
+## 📚 RAG & Knowledge Systems (Advanced)
+
+- Agentic RAG (query planning + retrieval + synthesis)
 - Hybrid search (BM25 + vector)
+- Metadata-aware chunking
 - Re-ranking & grounding
-- PDF / XBRL / structured + unstructured data
-- Observability & evaluation
+- Evaluation & hallucination control
+- Structured + unstructured fusion (PDF, XBRL, SQL, APIs)
 
-**Vector Databases**
+### **Vector Databases**
 - ChromaDB
 - FAISS
 - Pinecone
 - Azure AI Search (Vector)
-
-**AI Use-Cases Built**
-- Regulatory & financial document intelligence
-- Multi-agent workflows for compliance analysis
-- AI-assisted disclosure management
-- Enterprise knowledge copilots
+- PostgreSQL (pgvector)
 
 ---
 
-## 🧰 Tech Stack
+## 🔌 MCP & Tool Integration (2025 Trend)
 
-### 🖥️ Backend
+- Model Context Protocol (MCP)
+- Tool registry & dynamic tool discovery
+- Secure tool execution boundaries
+- Enterprise system integration:
+  - Databases
+  - REST APIs
+  - Cloud services
+  - Internal business tools
+
+---
+
+## 🖥️ AI Frontend & UX
+
+- Streamlit (AI dashboards & copilots)
+- React-based AI UIs
+- Prompt-driven workflows
+- Human-AI interaction design
+- Observability-friendly UI patterns
+
+---
+
+## ☁️ Cloud AI Platforms
+
+### **Azure**
+- Azure AI Foundry
+- Azure OpenAI
+- Azure Functions
+- Databricks
+- Synapse Analytics
+- Fabric
+- Azure DevOps CI/CD
+
+### **AWS**
+- AWS Bedrock
+- S3, Lambda
+- Cloud-native AI workloads
+
+---
+
+## 🧰 Core Engineering Stack
+
+### Backend
 - C#, .NET 6/8, ASP.NET Core
 - Python (FastAPI, PySpark)
-- REST APIs, Microservices
+- Microservices & APIs
 
-### 🎨 Frontend
-- React (18+), Angular (10+)
-- TypeScript, HTML5, CSS3
+### Frontend
+- React (18+)
+- Angular
+- TypeScript
 
-### 🗄️ Data & Storage
+### Data
 - SQL Server, PostgreSQL
-- Snowflake, Azure Synapse
-- Databricks, PySpark
-- Vector Stores
-
-### ☁️ Cloud & DevOps
-- Azure (Functions, Databricks, Synapse, Fabric)
-- AWS
-- Docker & Containers
-- CI/CD (Azure DevOps, GitHub Actions)
+- Snowflake
+- Databricks
+- Data Lakehouse architectures
 
 ---
 
-## 🏢 Professional Experience Highlights
+## 🏥 Industry Experience
 
-**🔹 insightsoftware (Senior Software Engineer)**  
-- AI-powered disclosure & compliance platforms
-- RAG systems for financial documents
-- Agentic AI workflows using AutoGen & CrewAI
-- .NET + React enterprise architecture
+### Healthcare
+- EMR & patient communication platforms
+- Secure, compliant systems (EU & AU)
+- AI-assisted clinical documentation & workflows
 
-**🔹 Philips (Software Technologist)**  
-- Healthcare EMR & patient communication platforms
-- React + Angular dual-frontend systems
-- Secure, regulated healthcare applications
-
-**🔹 ADP**  
-- End-to-end enterprise application development
-- Fortune 500 client solutions
-- Azure & AWS deployments
+### Finance & Compliance
+- Regulatory disclosure platforms
+- AI-powered document intelligence
+- XBRL / iXBRL / financial data pipelines
 
 ---
 
-## 🧪 Featured Projects (WIP / Active)
+## 🎓 Education & Research
 
-- 🔹 **Enterprise RAG Platform** – Multi-source document intelligence  
-- 🔹 **Agentic Compliance Analyzer** – Multi-agent regulatory workflows  
-- 🔹 **AI Knowledge Copilot** – Vector search + LLM reasoning  
-- 🔹 **LangGraph Tool-Oriented Agent System**
+- **PG Degree in Artificial Intelligence**  
+  *IIIT Bangalore* — **CGPA: 3.85 / 4.0**
 
-*(Repositories being actively updated)*
+- **Master’s Degree (Research-Oriented, Pursuing)**  
+  *Liverpool John Moores University, UK*
 
----
-
-## 📈 What I’m Looking For
-
-- Applied AI Engineer / Senior AI Engineer
-- LLM Engineer / Agentic AI Engineer
-- AI Platform / Solutions Engineer
-- AI-First Product Teams
-
-I enjoy **hands-on coding**, system design, and taking **AI from prototype to production**.
+- Continuous research focus on:
+  - LLM evaluation
+  - Agentic reasoning
+  - Retrieval optimization
 
 ---
 
-## 📫 Let’s Connect
+## 🧪 Active & Upcoming Projects
 
-- 💼 LinkedIn: https://www.linkedin.com/in/manifordev
-- 📧 Email: manifordev@gmail.com
+- 🔹 Enterprise-Grade Agentic RAG Platform  
+- 🔹 MCP-Driven Tool-Integrated AI System  
+- 🔹 Healthcare AI Knowledge Copilot  
+- 🔹 Multi-Agent Compliance Intelligence System  
+
+*(Repositories actively evolving)*
 
 ---
 
-⭐ If you like AI-first engineering, RAG systems, or Agentic AI — feel free to connect or collaborate.
+## 🎯 Roles of Interest
+
+- Applied AI Engineer
+- Senior LLM Engineer
+- Agentic AI Engineer
+- AI Platform / Solutions Architect
+- AI Engineer (Healthcare / Enterprise)
+
+---
+
+## 📬 Let’s Connect
+
+- LinkedIn: https://www.linkedin.com/in/manifordev  
+- Email: manifordev@gmail.com  
+
+⭐ I build AI systems that **survive production**, **scale in enterprises**, and **earn trust**.
