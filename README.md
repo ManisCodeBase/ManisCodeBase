@@ -4,7 +4,7 @@ Applied AI Engineer | Agentic AI & RAG Systems | Full-Stack (.NET + React) | Clo
 </h3>
 
 <p align="center">
-9.5+ years engineering experience • 3+ years AI-first systems • Healthcare & Finance • Azure & AWS
+9.5+ years engineering experience • AI-first systems • Finance, ERP, CRM, HCM & Healthcare & Finance • Azure & AWS
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ I am a **Senior Software Engineer turned Applied AI Engineer**, focused on build
 ## 🤖 AI / GenAI Stack (Vendor-Neutral)
 
 ### **Foundation Models**
-- OpenAI (GPT-4 / GPT-4o)
+- OpenAI (GPT)
 - Anthropic (Claude)
 - Mistral
 - Meta LLaMA
@@ -48,7 +48,6 @@ I am a **Senior Software Engineer turned Applied AI Engineer**, focused on build
 - OpenAI Agents SDK
 - Microsoft AutoGen
 - CrewAI
-- Semantic Kernel (.NET & Python)
 
 ### **Agentic Patterns**
 - Tool-calling & function routing
