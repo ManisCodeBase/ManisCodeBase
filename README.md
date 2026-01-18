@@ -4,7 +4,7 @@ Applied AI Engineer | Agentic AI & RAG Systems | Full-Stack (.NET + React) | Clo
 </h3>
 
 <p align="center">
-9+ years engineering experience • AI-first systems • Finance, ERP, CRM, HCM & Healthcare & Finance • Azure & AWS
+9+ years engineering experience • AI-first systems • ERP, CRM, HCM, Healthcare & Finance • Azure & AWS
 </p>
 
 <p align="center">
